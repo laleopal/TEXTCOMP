@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<text>
+  <p n="1"/>
+  <p n="2">
+    <w ana="Pp" lemma="в">В</w>
+    <w ana="Nn,In,Ac,Sg,Ms,_,_" lemma="мид">МИД</w>
+    <w ana="Nn,_,Gn,Sg,Fm,_,_" lemma="россия">России</w>
+    <w ana="Vb,_,_,Pl,_,_,Pf" lemma="заявить">заявили</w>
+    <pc ana="PM,Tr,_" lemma=",">,</pc>
+    <w ana="Cj" lemma="что">что</w>
+    <w ana="Pp" lemma="в">в</w>
+    <w ana="Nn,_,Lc,Pl,_,_,_" lemma="сша">США</w>
+    <w ana="Vb,_,_,Pl,_,_,Pf" lemma="возрасти">возросли</w>
+    <w ana="Nn,_,Nm,Pl,_,_,_" lemma="случай">случаи</w>
+    <w ana="Nn,_,Gn,Pl,_,_,_" lemma="провокация">провокаций</w>
+    <w ana="Pp" lemma="в">в</w>
+    <w ana="Nn,_,Lc,Sg,Nr,_,_" lemma="отношение">отношении</w>
+    <w ana="Aj,_,Gn,Pl,_,_,_" lemma="российский">российских</w>
+    <w ana="Nn,_,Gn,Pl,_,_,_" lemma="дипломат">дипломатов</w>
+    <pc ana="PM,Nt,Tr" lemma=",">,</pc>
+    <w ana="Pt,_,Gn,Pl,_,_,Im" lemma="высылать">высылаемых</w>
+    <w ana="Pp" lemma="из">из</w>
+    <w ana="Nn,_,Gn,Sg,Ms,_,_" lemma="вашингтон">Вашингтона</w>
+    <pc ana="PM,Tr,_" lemma=".">.</pc>
+    <w ana="Pp" lemma="о">Об</w>
+    <w ana="Pn,_,Lc,Sg,Nr,_,_" lemma="это">этом</w>
+    <w ana="Vb,_,_,Sg,_,Th,Im" lemma="сообщаться">сообщается</w>
+    <w ana="Pp" lemma="на">на</w>
+    <w ana="Nn,_,Lc,Sg,Ms,_,_" lemma="сайт">сайте</w>
+    <w ana="Aj,_,Gn,Sg,Nr,_,_" lemma="внешнеполитический">внешнеполитического</w>
+    <w ana="Nn,_,Gn,Sg,Nr,_,_" lemma="ведомство">ведомства</w>
+    <pc ana="PM,Tr,_" lemma=".">.</pc>
+  </p>
+  <p n="3"/>
+  <p n="4">
+    <w ana="Pp" lemma="по">По</w>
+    <w ana="Nn,_,Dt,Pl,_,_,_" lemma="данные">данным</w>
+    <w ana="Nn,_,Gn,Sg,Ms,_,_" lemma="мид">МИДа</w>
+    <pc ana="PM,Nt,Tr" lemma=",">,</pc>
+    <w ana="Pp" lemma="с">с</w>
+    <w ana="Pt,_,Ab,Pl,_,_,Im" lemma="высылать">высылаемыми</w>
+    <w ana="Nn,_,Ab,Pl,_,_,_" lemma="дипломат">дипломатами</w>
+    <w ana="Vb,_,_,Pl,_,Th,Im" lemma="пытаться">пытаются</w>
+    <w ana="If,_,_,_,_,_,Pf" lemma="вступить">вступить</w>
+    <w ana="Pp" lemma="в">в</w>
+    <w ana="Nn,In,Ac,Sg,Ms,_,_" lemma="контакт">контакт</w>
+    <w ana="Aj,_,Nm,Pl,_,_,_" lemma="американский">американские</w>
+    <w ana="Nn,_,Nm,Pl,_,_,_" lemma="спецслужба">спецслужбы</w>
+    <pc ana="PM,Tr,_" lemma=".">.</pc>
+  </p>
+  <p n="5"/>
+  <p n="6">
+    <w ana="Zr" lemma="``">``</w>
+    <w ana="Vb,_,_,Sg,Fm,_,Im" lemma="иметь">Имела</w>
+    <w ana="Nn,In,Ac,Sg,Nr,_,_" lemma="место">место</w>
+    <w ana="Aj,_,Nm,Sg,Fm,_,_" lemma="целый">целая</w>
+    <w ana="Nn,_,Nm,Sg,Fm,_,_" lemma="серия">серия</w>
+    <w ana="Aj,_,Gn,Pl,_,_,_" lemma="возмутительный">возмутительных</w>
+    <w ana="Nn,_,Gn,Pl,_,_,_" lemma="эпизод">эпизодов</w>
+    <pc ana="PM,Tr,_" lemma=",">,</pc>
+    <w ana="Ad" lemma="когда">когда</w>
+    <w ana="Cj" lemma="тем">тем</w>
+    <pc ana="PM,Nt,Tr" lemma=",">,</pc>
+    <w ana="Pn,_,Ac,Sg,Ms,_,_" lemma="кто">кого</w>
+    <w ana="Nn,_,Nm,Sg,Ms,_,_" lemma="вашингтон">Вашингтон</w>
+    <w ana="Vb,_,_,Sg,_,Th,Im" lemma="вынуждать">вынуждает</w>
+    <w ana="Ad" lemma="досрочно">досрочно</w>
+    <w ana="If,_,_,_,_,_,Pf" lemma="завершить">завершить</w>
+    <w ana="Nn,In,Ac,Pl,_,_,_" lemma="командировка">командировки</w>
+    <pc ana="PM,Nt,Tr" lemma=",">,</pc>
+    <w ana="Vb,_,_,Pl,_,_,Im" lemma="пытаться">пытались</w>
+    <w ana="If,_,_,_,_,_,Pf" lemma="предложить">предложить</w>
+    <w ana="Zr" lemma="``">``</w>
+    <w ana="Nn,In,Ac,Sg,Fm,_,_" lemma="помощь">помощь</w>
+    <pc ana="PM,Nt,_" lemma="''">''</pc>
+    <pc ana="PM,Tr,_" lemma="–">–</pc>
+    <w ana="Cj" lemma="и">и</w>
+    <w ana="Pc" lemma="не">не</w>
+    <w ana="Ad" lemma="просто">просто</w>
+    <w ana="Ad" lemma="так">так</w>
+    <pc ana="PM,Nt,Tr" lemma=",">,</pc>
+    <w ana="Cj" lemma="а">а</w>
+    <w ana="Pp" lemma="за">за</w>
+    <w ana="Aj,In,Ac,Pl,_,_,_" lemma="негласный">негласные</w>
+    <w ana="Nn,_,Gn,Sg,Nr,_,_" lemma="отношение">отношения</w>
+    <w ana="Zr" lemma="``">``</w>
+    <w ana="Pp" lemma="на">на</w>
+    <w ana="Aj,_,Lc,Sg,Fm,_,_" lemma="взаимовыгодный">взаимовыгодной</w>
+    <w ana="Nn,_,Lc,Sg,Fm,_,_" lemma="основа">основе</w>
+    <pc ana="PM,Nt,_" lemma="''">''</pc>
+    <pc ana="PM,Tr,_" lemma=".">.</pc>
+    <w ana="Aj,_,Gn,Pl,_,_,_" lemma="наш">Наших</w>
+    <w ana="Nn,_,Gn,Pl,_,_,_" lemma="коллега">коллег</w>
+    <w ana="Ad" lemma="буквально">буквально</w>
+    <w ana="Vb,_,_,Pl,_,Th,Im" lemma="атаковать">атакуют</w>
+    <w ana="Aj,_,Ab,Pl,_,_,_" lemma="такой">такими</w>
+    <w ana="Nn,_,Ab,Pl,_,_,_" lemma="предложение">предложениями</w>
+    <pc ana="PM,Nt,_" lemma="''">''</pc>
+    <pc ana="PM,Nt,Tr" lemma=",">,</pc>
+    <pc ana="PM,Nt,Tr" lemma="—">—</pc>
+    <w ana="Vb,_,_,Sg,_,Th,Im" lemma="говориться">говорится</w>
+    <w ana="Pp" lemma="в">в</w>
+    <w ana="Nn,_,Lc,Sg,Nr,_,_" lemma="сообщение">сообщении</w>
+    <pc ana="PM,Tr,_" lemma=".">.</pc>
+  </p>
+  <p n="7"/>
+  <p n="8">
+    <w ana="Pp" lemma="в">В</w>
+    <w ana="Nn,In,Ac,Sg,Ms,_,_" lemma="мид">МИД</w>
+    <w ana="Vb,_,_,Pl,_,_,Pf" lemma="отметить">отметили</w>
+    <pc ana="PM,Tr,_" lemma=",">,</pc>
+    <w ana="Ad" lemma="что">что</w>
+    <w ana="Vb,_,_,Pl,_,Th,Im" lemma="наблюдать">наблюдают</w>
+    <w ana="Pp" lemma="за">за</w>
+    <w ana="Aj,_,Ab,Pl,_,_,_" lemma="подобный">подобными</w>
+    <w ana="Nn,_,Ab,Pl,_,_,_" lemma="случай">случаями</w>
+    <w ana="Pc" lemma="и">и</w>
+    <w ana="Vb,_,_,Pl,_,Th,Im" lemma="фиксировать">фиксируют</w>
+    <w ana="Aj,_,Ab,Pl,_,_,_" lemma="их">их</w>
+    <pc ana="PM,Tr,_" lemma=".">.</pc>
+  </p>
+  <p n="9"/>
+  <p n="10">
+    <w ana="Nn,_,Nm,Sg,Ms,_,_" lemma="ряд">Ряд</w>
+    <w ana="Aj,_,Gn,Pl,_,_,_" lemma="западный">западных</w>
+    <w ana="Nn,_,Gn,Pl,_,_,_" lemma="страна">стран</w>
+    <pc ana="PM,Nt,Tr" lemma=",">,</pc>
+    <w ana="Pp" lemma="в">в</w>
+    <w ana="Aj,_,Lc,Sg,Nr,_,_" lemma="тот">том</w>
+    <w ana="Nn,_,Lc,Sg,Nr,_,_" lemma="число">числе</w>
+    <w ana="Nn,_,Gn,Sg,Fm,_,_" lemma="страна">страны</w>
+    <w ana="Nn,_,Gn,Sg,Fm,_,_" lemma="прибалтика">Прибалтики</w>
+    <pc ana="PM,Nt,Tr" lemma=",">,</pc>
+    <w ana="Nn,_,Nm,Pl,_,_,_" lemma="сша">США</w>
+    <pc ana="PM,Nt,Tr" lemma=",">,</pc>
+    <w ana="Nn,_,Nm,Sg,Fm,_,_" lemma="канада">Канада</w>
+    <pc ana="PM,Nt,Tr" lemma=",">,</pc>
+    <w ana="Cj" lemma="а">а</w>
+    <w ana="Cj" lemma="также">также</w>
+    <w ana="Nn,_,Nm,Sg,Fm,_,_" lemma="украина">Украина</w>
+    <w ana="Cj" lemma="и">и</w>
+    <w ana="Nn,_,Nm,Sg,Fm,_,_" lemma="молдавия">Молдавия</w>
+    <w ana="Vb,_,_,Pl,_,_,Pf" lemma="объявить">объявили</w>
+    <w ana="Pp" lemma="о">о</w>
+    <w ana="Nn,_,Lc,Sg,Fm,_,_" lemma="высылка">высылке</w>
+    <w ana="Ad" lemma="более">более</w>
+    <w ana="NM" lemma="100">100</w>
+    <w ana="Aj,_,Gn,Pl,_,_,_" lemma="российский">российских</w>
+    <w ana="Nn,_,Gn,Pl,_,_,_" lemma="дипломат">дипломатов</w>
+    <w ana="Pp" lemma="в">в</w>
+    <w ana="Nn,_,Lc,Sg,Fm,_,_" lemma="связь">связи</w>
+    <w ana="Pp" lemma="с">с</w>
+    <w ana="Nn,_,Ab,Sg,Nr,_,_" lemma="дело">делом</w>
+    <w ana="Pp" lemma="о">об</w>
+    <w ana="Nn,_,Lc,Sg,Nr,_,_" lemma="отравление">отравлении</w>
+    <w ana="Nn,_,Gn,Sg,Ms,_,_" lemma="экс-офицер">экс-офицера</w>
+    <w ana="Zr" lemma="гру">ГРУ</w>
+    <w ana="Nn,_,Gn,Sg,Ms,_,_" lemma="сергей">Сергея</w>
+    <w ana="Nn,_,Nm,Sg,Fm,_,_" lemma="скрипаля">Скрипаля</w>
+    <w ana="Pp" lemma="в">в</w>
+    <w ana="Nn,_,Lc,Sg,Fm,_,_" lemma="великобритания">Великобритании</w>
+    <pc ana="PM,Tr,_" lemma=".">.</pc>
+    <w ana="Nn,_,Gn,Sg,Fm,_,_" lemma="власть">Власти</w>
+    <w ana="Nn,_,Gn,Sg,Fm,_,_" lemma="великобритания">Великобритании</w>
+    <w ana="Vb,_,_,Pl,_,_,Pf" lemma="заявить">заявили</w>
+    <pc ana="PM,Tr,_" lemma=",">,</pc>
+    <w ana="Cj" lemma="что">что</w>
+    <w ana="Pp" lemma="к">к</w>
+    <w ana="Nn,_,Dt,Sg,Nr,_,_" lemma="отравление">отравлению</w>
+    <w ana="Dp,_,_,_,_,_,Im" lemma="скрипалить">Скрипаля</w>
+    <w ana="Cj" lemma="и">и</w>
+    <w ana="Aj,_,Nm,Pl,_,_,_" lemma="его">его</w>
+    <w ana="Nn,_,Nm,Pl,_,_,_" lemma="дочь">дочери</w>
+    <w ana="Ap,_,_,Sg,Fm,_,_" lemma="причастный">причастна</w>
+    <w ana="Nn,_,Nm,Sg,Fm,_,_" lemma="россия">Россия</w>
+    <pc ana="PM,Tr,_" lemma=".">.</pc>
+    <w ana="Aj,_,Nm,Sg,Fm,_,_" lemma="российский">Российская</w>
+    <w ana="Nn,_,Nm,Sg,Fm,_,_" lemma="сторона">сторона</w>
+    <w ana="Vb,_,_,Sg,_,Th,Im" lemma="отрицать">отрицает</w>
+    <w ana="Nn,In,Ac,Pl,_,_,_" lemma="обвинение">обвинения</w>
+    <pc ana="PM,Tr,_" lemma=".">.</pc>
+  </p>
+</text>
