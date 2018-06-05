@@ -522,25 +522,32 @@ def getall(coeff, dir, quant):
     quant - количество сравниваемых текстов
     """
     matrix = []
-    mline = []
-    for i in range(quant):
-        mline.append(0)
-    for i in range(quant):
-        matrix.append([0]*quant)
+    for i in range(quant+1):
+        matrix.append(['']*(quant+1))
 
     print('Please, be patient. The algorithm is running...')
 
     simdict ={}
     prevv = ''
-    mtrxln = 0
-    mtrxcl = 0
+    mtrxln = 1
+    mtrxcl = 1
     allvd = alltexts(dir)
-    for key in sorted(allvd):
+    for ind, key in enumerate(sorted(allvd)):
         simdict[key] = cnt(coeff, allvd[key])
-        crell = key[:key.index('&')]
+        crell = key[:key.index('&')-1]
+        if prevv == matrix[0][0] == '':
+            matrix[0].pop(1)
+            matrix[0].insert(1, crell)
         if crell != prevv and prevv != '':
+            matrix[mtrxln].pop(0)
+            matrix[mtrxln].insert(0, prevv)
+            matrix[0].pop(mtrxln+1)
+            matrix[0].insert(mtrxln+1, crell)
             mtrxln += 1
             mtrxcl = mtrxln
+        if ind == len(allvd)-1:
+            matrix[mtrxln].pop(0)
+            matrix[mtrxln].insert(0, crell)
         matrix[mtrxln].pop(mtrxcl)
         matrix[mtrxln].insert(mtrxcl, simdict[key])
         prevv = crell

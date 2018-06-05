@@ -113,7 +113,7 @@ class UKField(TopField):
 
 # Порядок представления полей в матрице: Coord, LNRem, NN, FD, FV, RR, U
 
-btset2 = better_chunker('el_liberals_01.xml')
+#btset2 = better_chunker('el_liberals_01.xml')
 
 # Объединяет чанки в топологические поля (на уровне предложения)
 def gettopfield(chunkedsent, sentind):
@@ -463,6 +463,3 @@ def allfields(chsentence):
         for pred in gettopfield(chunk, n):
             af.append(pred)
     return af
-
-if __name__ == '__main__':
-    allfields(btset2)
